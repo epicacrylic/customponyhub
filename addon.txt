@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+	"name" "Custom Pony HUD"
+	"author_name" "Fire Sparkle, Epic Acrylic"
+	"info" "
+{
+	"description": "Custom pony HUD you can customize",
+	"type": "effects",
+	"tags": 
+	[
+		"cartoon"
+	]
+}"
+}
